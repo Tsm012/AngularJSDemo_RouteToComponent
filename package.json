@@ -16,6 +16,7 @@
         "webpack-dev-server": "^3.10.3"
     },
     "dependencies": {
+        "@uirouter/angularjs": "^1.0.25",
         "angular": "^1.7.9"
     }
 }
