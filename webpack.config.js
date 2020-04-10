@@ -19,7 +19,6 @@ module.exports = {
     devServer: {
         publicPath: "/",
         contentBase: path.join(process.cwd(), "dist"),
-        historyApiFallback: true,
-        hot: true
+        historyApiFallback: true
     }
 }
